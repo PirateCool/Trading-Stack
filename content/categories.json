@@ -1,22 +1,16 @@
 {
   "categories": [
     {
-      "slug": "open-source",
-      "name": "Open Source",
-      "description": "best free open source tools for your next projects",
-      "icon": "🔨"
-    },
-    {
-      "slug": "productivity",
-      "name": "Productivity",
-      "description": "best free productivity tools",
-      "icon": "⌚"
-    },
-    {
       "slug": "communication",
       "name": "Communication",
       "description": "best communication tools",
       "icon": "💬"
+    },
+    {
+      "slug": "productivitylol",
+      "name": "Productivity",
+      "description": "best free productivity tools",
+      "icon": "⌚"
     },
     {
       "slug": "finance",
@@ -53,6 +47,12 @@
       "name": "Well-being",
       "description": "best well-being tools",
       "icon": "🍀"
+    },
+    {
+      "slug": "Test",
+      "name": "test",
+      "description": "test",
+      "icon": "😇"
     },
     {
       "slug": "books",
